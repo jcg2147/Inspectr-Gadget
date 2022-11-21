@@ -1,6 +1,6 @@
 ## Overview
 
-Inspectr Gadget is an Electron desktop application with a GUI that aggregates and executes multiple open source offensive security tools a la carte. I designed it to help streamline initial enumeration steps in red team assessments and penetration tests, by aggregating tools and results on a single UI. It was also designed with cyber security beginners in mind, with its ease of use it provides a low barrier of entry for users to get their hands on some popular offensive security tools to test on targets (WITH EXPLICIT PERMISSION TO TEST).
+Inspectr Gadget is an Electron desktop application with a GUI that aggregates and executes multiple open source offensive security tools a la carte. It was developed to help streamline initial enumeration steps in red team assessments and penetration tests, by aggregating tools and results on a single UI. It was also designed with cyber security beginners in mind, with its ease of use it provides a low barrier of entry for users to get their hands on some popular offensive security tools to test on targets (WITH EXPLICIT PERMISSION TO TEST). Currently it is only executable on Kali Linux (or any Debian-based Linux distributions) and a Windows version is in the works. 
 
 ![alt text](https://github.com/jcg2147/Inspectr-Gadget/blob/main/inspectr_gadget.gif?raw=true)
 
