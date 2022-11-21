@@ -37,7 +37,7 @@ Inspectr Gadget is an Electron desktop application with a GUI that aggregates an
 * wpscan (https://wpscan.com/wordpress-security-scanner)
   * WPScan a black box WordPress security scanner.
 
-### General Vulnerability Scanners
+### General Scanners
 * nmap (https://nmap.org/)
   * Nmap is a network scanner used to discover hosts and services on a computer network by sending packets and analyzing the responses.
 * nuclei (https://nuclei.projectdiscovery.io/)
